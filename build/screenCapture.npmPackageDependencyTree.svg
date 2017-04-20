@@ -1,0 +1,38 @@
+<svg height="558" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="558" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">13 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ react-native-meteor@1.0.3 </tspan>
+<tspan x="10" y="90">  ├── base-64@0.1.0 </tspan>
+<tspan x="10" y="106">  ├── crypto-js@3.1.8 </tspan>
+<tspan x="10" y="122">  ├── ejson@2.1.2 </tspan>
+<tspan x="10" y="138">  ├─┬ minimongo-cache@0.0.48 </tspan>
+<tspan x="10" y="154">  │ ├── eventemitter3@1.2.0 </tspan>
+<tspan x="10" y="170">  │ ├─┬ invariant@2.2.2 </tspan>
+<tspan x="10" y="186">  │ │ └─┬ loose-envify@1.3.1 </tspan>
+<tspan x="10" y="202">  │ │   └── js-tokens@3.0.1 </tspan>
+<tspan x="10" y="218">  │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="234">  ├── UNMET PEER DEPENDENCY react@^0.14.3 || ^15.0.0</tspan>
+<tspan x="10" y="250">  ├─┬ react-komposer@1.13.1 </tspan>
+<tspan x="10" y="266">  │ ├─┬ babel-runtime@6.23.0 </tspan>
+<tspan x="10" y="282">  │ │ ├── core-js@2.4.1 </tspan>
+<tspan x="10" y="298">  │ │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="314">  │ ├── hoist-non-react-statics@1.2.0 </tspan>
+<tspan x="10" y="330">  │ ├── mobx@2.7.0 </tspan>
+<tspan x="10" y="346">  │ └─┬ shallowequal@0.2.2 </tspan>
+<tspan x="10" y="362">  │   └─┬ lodash.keys@3.1.2 </tspan>
+<tspan x="10" y="378">  │     ├── lodash._getnative@3.9.1 </tspan>
+<tspan x="10" y="394">  │     ├── lodash.isarguments@3.1.0 </tspan>
+<tspan x="10" y="410">  │     └── lodash.isarray@3.0.4 </tspan>
+<tspan x="10" y="426">  ├─┬ react-mixin@3.0.5 </tspan>
+<tspan x="10" y="442">  │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="458">  │ └── smart-mixin@2.0.0 </tspan>
+<tspan x="10" y="474">  ├─┬ trackr@2.0.2 </tspan>
+<tspan x="10" y="490">  │ └─┬ raf@3.1.0 </tspan>
+<tspan x="10" y="506">  │   └── performance-now@0.2.0 </tspan>
+<tspan x="10" y="522">  ├── underscore@1.8.3 </tspan>
+<tspan x="10" y="538">  └── wolfy87-eventemitter@4.3.0</tspan>
+</text>
+</svg>
